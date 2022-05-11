@@ -1,7 +1,8 @@
 @media screen {
     
 #navbar{
-    width: fit-content;
+    top:0;
+    width: 100vw;
     background-color:lightgoldenrodyellow;   
 }
 }
