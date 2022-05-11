@@ -1,5 +1,11 @@
 @media screen {
-    #navbar{
+    
+#navbar{
+    width: fit-content;
+    background-color:lightgoldenrodyellow;   
+}
+}
+#navbar{
     padding:0.75rem;
     width: fit-content;
     background-color:lightgoldenrodyellow;
@@ -20,7 +26,13 @@ body{
     font-size:2rem;
 }
 header{
+    padding-top: 2px;
+    padding-bottom: 2px;
     font-size:2rem;
+}
+section{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 h3{
     border-style: solid;
@@ -53,5 +65,4 @@ a:hover{
 h3:hover{
     background-color:black;
     color:burlywood;
-}
 }
